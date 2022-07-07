@@ -1,0 +1,7 @@
+.RData
+*.csv
+*.json
+*.zip
+*.png
+*.html
+*.pickle
